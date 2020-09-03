@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yoshino/static/css/main.5f361e03.chunk.css",
+    "main.js": "/yoshino/static/js/main.72b9281c.chunk.js",
+    "main.js.map": "/yoshino/static/js/main.72b9281c.chunk.js.map",
+    "runtime-main.js": "/yoshino/static/js/runtime-main.91b1bd6f.js",
+    "runtime-main.js.map": "/yoshino/static/js/runtime-main.91b1bd6f.js.map",
+    "static/js/2.13b66721.chunk.js": "/yoshino/static/js/2.13b66721.chunk.js",
+    "static/js/2.13b66721.chunk.js.map": "/yoshino/static/js/2.13b66721.chunk.js.map",
+    "index.html": "/yoshino/index.html",
+    "precache-manifest.04703fec8661b1649b209c50366d70ab.js": "/yoshino/precache-manifest.04703fec8661b1649b209c50366d70ab.js",
+    "service-worker.js": "/yoshino/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/yoshino/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.13b66721.chunk.js.LICENSE.txt": "/yoshino/static/js/2.13b66721.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/yoshino/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91b1bd6f.js",
+    "static/js/2.13b66721.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.72b9281c.chunk.js"
+  ]
+}
